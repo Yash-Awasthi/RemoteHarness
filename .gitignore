@@ -6,3 +6,11 @@ local.properties
 *.keystore
 keystore.properties
 .cxx/
+
+# Test/runtime artifacts
+.remoteharness-test/
+.remoteharness/
+
+# Local-only files
+.freebuff/
+notes.md
